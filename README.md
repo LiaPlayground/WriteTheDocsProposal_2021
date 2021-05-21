@@ -16,6 +16,8 @@ comment:  Pitch-Talk about LiaScript for the "EMEA Write the Docs Proposals
 
 -->
 
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/LiaPlayground/WriteTheDocsProposal_2021/edit/main/README.md)
+
 # Next generation interactive docs
 
 **LiaScript is not a tool, it is a Markup language based on three design principles:**
